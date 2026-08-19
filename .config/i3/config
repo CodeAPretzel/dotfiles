@@ -1,6 +1,6 @@
 # Standalone i3 configuration for an Arch Linux VirtualBox guest.
 set $mod Mod4
-font pango:DejaVu Sans Mono 10
+font pango:DejaVu Sans Mono 14
 floating_modifier $mod
 
 # Small gaps and square borders for a clean, boxy layout.
